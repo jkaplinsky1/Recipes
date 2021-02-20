@@ -1,5 +1,4 @@
 # Carne Asada
-Optional subheader
 
 ## info  
 * About 10 minutes prep
@@ -27,11 +26,6 @@ Marinade:
 
 ## steps  
 1. Marinade the Steak
-Whisk to combine the olive oil, soy sauce, lime juice, vinegar, sugar, black pepper, and cumin in a large, non-reactive bowl or baking dish. Stir in the minced garlic, jalapeño, and cilantro.
-
-Place the steak in the marinade and turn over a couple of times to coat thoroughly.
-
-Cover in plastic wrap and refrigerate for 1-4 hours or overnight (if using flank steak marinate at least 3 hours).
 
 2. Grill.
 
