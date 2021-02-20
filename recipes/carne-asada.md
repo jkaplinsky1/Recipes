@@ -1,23 +1,43 @@
-# Carne Asada  
+# Carne Asada
+Optional subheader
 
-## ingredients  
-* 2.5 lbs flank steak  
-* 1/4 cup soy sauce  
-* 1/4 cup lime juice  
-* 2 tbsp sugar  
-* 1 tbsp dried ground ancho chile (or dried chipotle)  
-* 1 tbsp dried oregano  
-* 2 tsp ground cumin  
-* 4 cloves garlic, chopped  
-* 2 tbsp chopped cilantro  
-* 1/3 cup olive oil  
+## info  
+* About 10 minutes prep
+* About 20 minutes cook
+* A good 2-24 hours marinading
+* 4 to 6 servings  
 
-## steps
-1. Combine marinate ingredients (except the oil) in a shallow bowl, whisk. Slowly whisk in oil.  
-2. Add steak and coat with marinade (alternatively, place everthing in a ziplock bag). Let marinate for at least an hour and up to 12, turning every few hours.    
-3. Remove steak from marinade and pat dry. Cook over charcoal (first on hot side then cooler) or in a cast-iron pan until center registers 135ºF. Transfer to a cutting board and allow to rest for 5 minutes.  
-4. Slice steak across grain, serve with tortillas, onion and cilantro, and salsa.  
+## ingredients
+Steak:
+* 1.5 to 2 pounds flank or skirt steak
+* Extra virgin olive oil
+* Kosher salt and freshly ground black pepper
+
+Marinade:
+* 1/3 cup extra virgin olive oil
+* 1/4 cup soy sauce
+* 2 limes, juiced (about 2 Tbsp)
+* 2 tablespoons cider vinegar
+* 2 tablespoons sugar
+* 1 teaspoon freshly ground black pepper
+* 1 teaspoon ground cumin seed (if have whole, toast and then grind)
+* 4 garlic cloves, minced (4 teaspoons)
+* 1 jalapeño chile pepper, seeded and minced
+* 1/2 bunch fresh cilantro, leaves and stems, finely chopped (great flavor in the stems!), about 1/2 cup
+
+## steps  
+1. Marinade the Steak
+Whisk to combine the olive oil, soy sauce, lime juice, vinegar, sugar, black pepper, and cumin in a large, non-reactive bowl or baking dish. Stir in the minced garlic, jalapeño, and cilantro.
+
+Place the steak in the marinade and turn over a couple of times to coat thoroughly.
+
+Cover in plastic wrap and refrigerate for 1-4 hours or overnight (if using flank steak marinate at least 3 hours).
+
+2. Grill.
+
+## notes  
+* Really good
 
 ## based on  
-* https://www.seriouseats.com/recipes/2011/05/grilled-marinated-flank-steak-fajitas-recipe.html  
-* https://www.seriouseats.com/recipes/2015/09/carne-asada-food-lab-recipe-kenji.html  
+* https://www.simplyrecipes.com/recipes/carne_asada/
+
