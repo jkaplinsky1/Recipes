@@ -10,11 +10,11 @@ Total
 * 375 g water
 * 1/8 t yeast
 * 10 g salt
-* &&Poolish
+* <b>Poolish</b>
 * 250 g flour at 80 degrees F
 * 250 g water
 * 1/8 t yeast
-* &&Final Dough
+* <b>Final Dough</b>
 * 250 g flour
 * 125 g water at 105 degrees F
 * 10 g salt
